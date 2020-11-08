@@ -1,5 +1,5 @@
 # DeepPano
-Image segmentation for dental panoramic radiographs.
+Image segmentation for dental panoramic radiographs. Segmentation is based on UNet architecture, which has proved effective in medical image segmentation, requiring few images for training while ensuring good quality of segmentation (see https://arxiv.org/abs/1505.04597)
 
 First milestone is segmentation of metallic amalgams. If successful, further milestones will include tooth decay detection.
 
